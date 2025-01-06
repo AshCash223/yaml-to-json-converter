@@ -1,0 +1,23 @@
+login:
+  en: "Login"
+  fr: "Connexion"
+  es: "Iniciar sesión"
+  de: "Anmelden"
+  zh: "登录"
+  vi: "Đăng nhập"
+
+password:
+  en: "Password"
+  fr: "Mot de passe"
+  es: "Contraseña"
+  de: "Passwort"
+  zh: "密码"
+  vi: "Mật khẩu"
+
+forgotPassword:
+  en: "Forgot your password?"
+  fr: "Mot de passe oublié ?"
+  es: "¿Olvidaste tu contraseña?"
+  de: "Passwort vergessen?"
+  zh: "忘记密码？"
+  vi: "Quên mật khẩu?"
