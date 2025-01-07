@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' show PlatformException, rootBundle;
+import 'package:flutter/services.dart' show rootBundle;
 
 void main() {
   runApp(MyApp());
